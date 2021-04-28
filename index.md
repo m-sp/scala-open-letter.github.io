@@ -64,7 +64,6 @@ Signed:
 * Attila Szegedi
 * Barrie McGuire
 * Bart Schuller
-* Bartosz Bierkowski
 * Ben Fradet
 * Ben Plommer
 * Benjamin Thuillier
@@ -192,6 +191,7 @@ Signed:
 * Martin Pallmann
 * Mathis Randl
 * Matt Hughes
+* Matthias Sperl
 * Michael Pilquist
 * Milan van der Meer
 * Miles Sabin
