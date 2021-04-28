@@ -53,7 +53,6 @@ Signed:
 * Andrea Magnorsky
 * Andrea Peruffo
 * Andrew Gustafson
-* Andrew Marki
 * Andrew Valencik
 * Andy Scott
 * Antoine Comte
@@ -188,11 +187,11 @@ Signed:
 * Mark "Justin du Coeur" Waks
 * Mario Pastorelli
 * Martijn Hoekstra
-* Martin Carolan
 * Martin Kühl
 * Martin Pallmann
 * Mathis Randl
 * Matt Hughes
+* Matthias Sperl
 * Michael Pilquist
 * Milan van der Meer
 * Miles Sabin
